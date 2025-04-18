@@ -11,3 +11,7 @@ Celem jest wprowadzenie odrobiny lekkości i humoru do codziennego korzystania z
 ## Współpraca / Pomysły 💡
 
 Masz pomysły na nowe, śmieszne zamienniki? Znalazłeś błąd? Chciałbyś dodać wsparcie dla innej strony AI? Zapraszam do współtworzenia rozszerzenia!
+
+# Instalacja
+## Firefox
+- [Firefox Browser ADD-ONS](https://addons.mozilla.org/pl/firefox/addon/pomy%C5%9Blunek/)
